@@ -71,3 +71,9 @@ python3 sistema_estudiantes.py
 ## Autor
 
 Cristian CMG
+
+## Próximas mejoras
+
+- Validar datos ingresados.
+- Agregar almacenamiento de estudiantes.
+- Mejorar la presentación del sistema.
